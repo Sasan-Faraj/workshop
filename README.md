@@ -3,7 +3,6 @@
 Sasan Faraj
 
 ## Responses to Reading
-1.  [Blumenstock (Jan. 30, revised)](https://sasan-faraj.github.io/workshop/blumentstock.md)
 
 2. [Blumenstock Response (Jan.28)](https://sasan-faraj.github.io/workshop/) 
 
