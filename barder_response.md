@@ -1,6 +1,6 @@
 # Owen Barder Response
 
-## Answer:
+## Answer (How is development defined, and how does it relate to Sen's theory?:
 
   Owen Barder defines devlopment as "the emergence of self-organizing complexity." Though, it is critical to notice that he does not focuse on the colletion of successes. In order to have development, Barder stresses the idea that societies need to have settings in which they can adapt, learn, and evolve. For instance, simply puting institutions in a country (ie through aide) is not enough for development. In order to put human development, countries need to take steps toward increasing transparancy and encouraging experimentation. His idea of complexity relates to Sen's definition of devolpment because promoting peoples abilities to experiment or industries capabilities to fail or prosper goes along side with Sen's argument that development and freedom strongly relate to free choice. In Barder's case, people and industries in an adaptive complex setting have the ability to make choices and then thrive or fail based off of them.
 
