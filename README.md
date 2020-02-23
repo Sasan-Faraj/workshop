@@ -15,13 +15,7 @@ Sasan Faraj
 
 ### Assingments
 
-1. Annotated Bibliography
-  - Problem Statement
-   - Harms
-   - Significance of those harms
-   - Inherent nature of the problem
-  - Selected LMIC or Region
-  - DImension of HUman Development
+1. [Annotated Bibliography (Feb. 23)](https://sasan-faraj.github.io/assignment_one) 
   
 2. Literature Review
 
