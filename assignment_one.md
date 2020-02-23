@@ -10,7 +10,7 @@ The Rotavirus vaccine has the lowest vaccination coverage in El Salvador, even t
 
 ## Annotations 
 
-1)  Utazi, C.D., Thorley, J., Alegana, V. A., Ferrari, M.J., Takahashi, S., Metcalf, C. J. E., Lessler, J., & Tatem, A.J. (2018). High resolution age-structured mapping of childhood vaccination coverage in low and middle income countries. *Vaccine, 36*(12), 1583-1591. https://doi.org/ 10.1016/j.vaccine.2018.02.020	
+  Utazi, C.D., Thorley, J., Alegana, V. A., Ferrari, M.J., Takahashi, S., Metcalf, C. J. E., Lessler, J., & Tatem, A.J. (2018). High resolution age-structured mapping of childhood vaccination coverage in low and middle income countries. *Vaccine, 36*(12), 1583-1591. https://doi.org/ 10.1016/j.vaccine.2018.02.020	
 
    
 
@@ -20,7 +20,9 @@ The Rotavirus vaccine has the lowest vaccination coverage in El Salvador, even t
 
 ​      In relation to human development, health care, in many ways, dictates whether or not humans live. So by the inherent nature of the vaccine being able to save hundreds to thousands of lives, finding out where the vaccinations are needed the most can help increase human development by increasing the number of humans alive. This closely relates to Sen’s claims on human development, because he argues that human development relies on human capabilities. Being alive is the essence of human capability. If they are not alive, they cannot be capable of anything. The human development pattern/process that the researchers are looking at is how vaccination rates impact the quality of life of people. Though they do not explicitly state that is what they are looking at, by researching this topic and providing a map displaying vaccination rates, they are feeding into the overall discussion of vaccination rates and quality of life, because sickness dictates quality of life.
 
-2)  Niyibizi, I., Schamel, J., & Frew P. M. (2016). Neighborhood influences on seasonal influenza vaccination among older African Americans in Atlanta, Georgia. *Journal of Immunological Techniques in Infectious Diseases, 5*(2), 1-20. https://doi.org10.4172/2329-9541.1000139
+________________________________________________________________________________________________________________________________________
+
+  Niyibizi, I., Schamel, J., & Frew P. M. (2016). Neighborhood influences on seasonal influenza vaccination among older African Americans in Atlanta, Georgia. *Journal of Immunological Techniques in Infectious Diseases, 5*(2), 1-20. https://doi.org10.4172/2329-9541.1000139
 
 ​	
 
@@ -30,7 +32,9 @@ The Rotavirus vaccine has the lowest vaccination coverage in El Salvador, even t
    
    The authors saw multiple correlations within their results. The study found that perceiving the neighborhood as safe led the respondents to having friendlier attitudes towards vaccination. On the contrapositive, that might indicate that people with perceiving dangerous neighborhoods could view vaccinations negatively. Older age and less availability to vehicles per household had the same statistical significance as neighborhood security. Again, this shares the same development goal that I want to research which is to ensure healthy lives for everyone so they can develop in other sectors.	
 
-3) Wong, M. K, Yadav, R. P., Nishikiori, N., & Eang, M. T. (2013). The association between household poverty rates and tuberculosis case notifications rates in Cambodia, 2010. *Western Pacific Survival and Response Journal, 4*(1), 25 - 33. https://doi.org10.5365/wpsar.2013.4.1.002
+________________________________________________________________________________________________________________________________________
+
+ Wong, M. K, Yadav, R. P., Nishikiori, N., & Eang, M. T. (2013). The association between household poverty rates and tuberculosis case notifications rates in Cambodia, 2010. *Western Pacific Survival and Response Journal, 4*(1), 25 - 33. https://doi.org10.5365/wpsar.2013.4.1.002
 
 ​      This article answers the question regarding what is the correlation between household poverty rates and tuberculosis case notification rates. Though, it is important to notice that the authors are investing the notifications rates rather than the people infected. When adjusting for “population density, distance to health care facilities, all basic vaccination coverage and HIV prevalence,” the researchers found a negative correlation between household poverty rates and septum positive tuberculosis notification rates, meaning as household poverty rates increased, the notification of people testing positive for tuberculosis decreased, contradicting the authors’ hypothesis.
 
@@ -38,7 +42,9 @@ The Rotavirus vaccine has the lowest vaccination coverage in El Salvador, even t
 
 ​     The article relates to Amartya Sen’s definition of human development because of the discussion surrounding the basic health of citizens of lower socioeconomic status. For instance, Sen draws connections about the importance of income in being able to pursue what we enjoy and how our ability to be healthy impacts whether or not we are able to develop as a collective body. This study combines both those concepts because it tested whether or not having money, monitored by poverty rates, will increase their likelihood of being sick with TB, inevitably disabling them from both gaining money to pursue interests and exploring their own development. Holistically, this article relates to two Sustainable Development Goals: reducing poverty and ensuring healthy lives for all people. The article relates to reducing poverty because it aims to demonstrate the negative health effects of poverty, though it found that distance to facilities has a greater impact on health than poverty. It relates to improving overall health because it seeks to find out what may be causing people to live fatally unhealthy lives.
 
-5) Wiysonge, C. S., Uthman, O. A., Ndumbe, P. M., & Hussey, G. D. (2012). Individual and contextual factors associated with low childhood immunisation coverage in sub-Saharan Africa: a multilevel analysis. *Plos ONE, 7*(5), 1-7. https://doi.org/10.1371/journal.pone.0037905
+________________________________________________________________________________________________________________________________________
+
+ Wiysonge, C. S., Uthman, O. A., Ndumbe, P. M., & Hussey, G. D. (2012). Individual and contextual factors associated with low childhood immunisation coverage in sub-Saharan Africa: a multilevel analysis. *Plos ONE, 7*(5), 1-7. https://doi.org/10.1371/journal.pone.0037905
 
 The authors of this study sought to answer the question of how do different levels of analysis (individual-, community-, and national-level) impact the immunization rate of children under five in sub-Saharan Africa. The research found a multitude of correlations. But the most important relationship was that both contextual factors (community and national) and individual factors influenced the vaccination coverage of the children. A few examples are children whose parents did not receive and education are likely to be not vaccinated for specific vaccines. Likewise, children in neighborhoods which have high illiteracy rates are likely to not be vaccinated.	
 
@@ -46,7 +52,9 @@ The authors of this study sought to answer the question of how do different leve
    
    This article relates to Sen’s discussion of human development and freedom because the researchers take what Sen describes as important to freedom (literacy rates, average income, etc.) and correlates how those impact substantive freedoms, mainly health. Likewise, the researchers focus on the development pattern of children vaccination rates which can differ based on the community. So the researchers are clearly focusing on the third Sustainable Development Goal which is about ensuring healthy lives, regardless of external factors. However, it is critical to note that this article was made in response to the effectiveness of the Millennium Development Goals (MDGs), but it still relates to SDGs, even though it does not blatantly state that.
 
-5) Menezes, T., Silveira-Neto, R., Monteiro, C., & Ratton, L. J. (2013). Spatial correlation between homicide rates and inequality: evidence from urban neighborhoods. *Economic Letters, 120*(1), 97-79. https://doi.org/10.1016/j.econlet.2013.03.040.	
+________________________________________________________________________________________________________________________________________
+
+ Menezes, T., Silveira-Neto, R., Monteiro, C., & Ratton, L. J. (2013). Spatial correlation between homicide rates and inequality: evidence from urban neighborhoods. *Economic Letters, 120*(1), 97-79. https://doi.org/10.1016/j.econlet.2013.03.040.	
 
    The researchers of this article attempted to answer the questions of how socioeconomic and neighborhood characteristics influence homicide rates in specified Brazilian Neighborhoods. Overall, the researchers found a few correlations. Interestingly, if a neighborhood had low crime rates, its neighboring communities would have higher murder rates. Maybe most importantly, the researchers found that a low Gini coefficient correlated with a total decrease in the neighborhood’s homicide rates, meaning lower income inequality indicated lower homicide rates.	
    
