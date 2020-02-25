@@ -4,7 +4,7 @@ Sasan Faraj
 
 February 13
 
-## Problem Statement
+## Problem Statement 
 
 The Rotavirus vaccine has the lowest vaccination coverage in El Salvador, even though El Salvador is known for having good vaccination coverage (Suárez-Castaneda et al., 2013). The harm of this dilemma is extremely extensive, as lack of a vaccine is generally known to be a fatal diarrheal disease. In fact, the Mayo Clinic analyzes that there are over 200,000 deaths per year to rotavirus. This is extremely significant to the development of freedom. Relating this to Amartya Sen’s discussion of human development and freedom, if children, mainly babies, are denied the substantive freedom of life due to death, then human development loses potential, leading to a perpetual cycle of decreasing development. The inherency of this topic is what requires the most research. As will be discussed below, unsafe conditions and lack of resources relate to low vaccination coverage, but no research has been done to see if crime rates relate to vaccination coverage, curbing the need for vaccination data.
 
