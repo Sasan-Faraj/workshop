@@ -10,7 +10,7 @@ The Rotavirus vaccine has the lowest vaccination coverage in El Salvador, even t
 
 ## Annotations 
 
-  Utazi, C.D., Thorley, J., Alegana, V. A., Ferrari, M.J., Takahashi, S., Metcalf, C. J. E., Lessler, J., & Tatem, A.J. (2018). High resolution age-structured mapping of childhood vaccination coverage in low and middle income countries. *Vaccine, 36*(12), 1583-1591. https://doi.org/ 10.1016/j.vaccine.2018.02.020	
+  Utazi, C.D., Thorley, J., Alegana, V. A., Ferrari, M.J., Takahashi, S., Metcalf, C. J. E., Lessler, J., & Tatem, A.J. (2018). High resolution age-structured mapping of childhood vaccination coverage in low and middle income countries. *Vaccine, 36*(12), 1583-1591. https://doi.org/10.1016/j.vaccine.2018.02.020
 
    
 
@@ -22,7 +22,7 @@ The Rotavirus vaccine has the lowest vaccination coverage in El Salvador, even t
 
 ________________________________________________________________________________________________________________________________________
 
-  Niyibizi, I., Schamel, J., & Frew P. M. (2016). Neighborhood influences on seasonal influenza vaccination among older African Americans in Atlanta, Georgia. *Journal of Immunological Techniques in Infectious Diseases, 5*(2), 1-20. https://doi.org10.4172/2329-9541.1000139
+  Niyibizi, I., Schamel, J., & Frew P. M. (2016). Neighborhood influences on seasonal influenza vaccination among older African Americans in Atlanta, Georgia. *Journal of Immunological Techniques in Infectious Diseases, 5*(2), 1-20. doi: 10.4172/2329-9541.1000139
 
 ​	
 
@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________
 
- Wong, M. K, Yadav, R. P., Nishikiori, N., & Eang, M. T. (2013). The association between household poverty rates and tuberculosis case notifications rates in Cambodia, 2010. *Western Pacific Survival and Response Journal, 4*(1), 25 - 33. https://doi.org10.5365/wpsar.2013.4.1.002
+ Wong, M. K, Yadav, R. P., Nishikiori, N., & Eang, M. T. (2013). The association between household poverty rates and tuberculosis case notifications rates in Cambodia, 2010. *Western Pacific Survival and Response Journal, 4*(1), 25 - 33. doi: 10.5365/WPSAR.2013.4.1.002
 
 ​      This article answers the question regarding what is the correlation between household poverty rates and tuberculosis case notification rates. Though, it is important to notice that the authors are investing the notifications rates rather than the people infected. When adjusting for “population density, distance to health care facilities, all basic vaccination coverage and HIV prevalence,” the researchers found a negative correlation between household poverty rates and septum positive tuberculosis notification rates, meaning as household poverty rates increased, the notification of people testing positive for tuberculosis decreased, contradicting the authors’ hypothesis.
 
@@ -54,7 +54,7 @@ The authors of this study sought to answer the question of how do different leve
 
 ________________________________________________________________________________________________________________________________________
 
- Menezes, T., Silveira-Neto, R., Monteiro, C., & Ratton, L. J. (2013). Spatial correlation between homicide rates and inequality: evidence from urban neighborhoods. *Economic Letters, 120*(1), 97-79. https://doi.org/10.1016/j.econlet.2013.03.040.	
+ Menezes, T., Silveira-Neto, R., Monteiro, C., & Ratton, L. J. (2013). Spatial correlation between homicide rates and inequality: evidence from urban neighborhoods. *Economic Letters, 120*(1), 97-79. https://doi.org/10.1016/j.econlet.2013.03.040	
 
    The researchers of this article attempted to answer the questions of how socioeconomic and neighborhood characteristics influence homicide rates in specified Brazilian Neighborhoods. Overall, the researchers found a few correlations. Interestingly, if a neighborhood had low crime rates, its neighboring communities would have higher murder rates. Maybe most importantly, the researchers found that a low Gini coefficient correlated with a total decrease in the neighborhood’s homicide rates, meaning lower income inequality indicated lower homicide rates.	
    
