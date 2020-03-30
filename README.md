@@ -8,7 +8,7 @@ Sasan Faraj
 2. [Jahan and Rosling Response (Feb. 4)](https://sasan-faraj.github.io/workshop/jahan_rosling)
 3. [Barder Response (Feb. 18)](https://sasan-faraj.github.io/workshop/barder_response)
 4. [Anderson Kitchen Response (Feb. 25)](https://sasan-faraj.github.io/workshop/anderson_kitchen_response)
-5. [Stevens Response (Mar. 26)](https://sasan-faraj.github.io/workshop/stevens.md)
+5. [Stevens Response (Mar. 26)](https://sasan-faraj.github.io/workshop/stevens_response)
 
 ## Projects
 1.
