@@ -5,8 +5,11 @@
    The motive of this study is to specify the correlation between crime rates, a social covariate, and the measles vaccine in order to improve future uses of bayesian hierarchical models by first analyzing the relation with their correlations with different bivariate regression models. I will achieve this goal by meeting the following objectives:
 
 1) Acquiring geocoded data from Demographic and Health Surveys about Nigeria’s measles vaccination
+
 2) Applying Baysian geospatial techniques to the the cluster level data, using public datasets on geospatial covariates, in order to map the vaccination coverage of the measles vaccine of the under under-5 population group
+
 3) Incorporating a bivariate analysis to analyze the correlation between publicly available data on crime rates and the new information on vaccination coverage
+
 4) Creating a new visual for vaccination coverage using crime rates within the bayesian model 
 
    This work will add on to previous research because it will use current methods of predicting vaccination coverage to create a correlational value between the measles vaccination coverage and crime rates in Nigeria. 
