@@ -20,6 +20,6 @@ Sasan Faraj
 
 1. [Annotated Bibliography (Feb. 23)](https://sasan-faraj.github.io/workshop/assignment_one) 
   
-2. Literature Review
+2. [Literature Review (Apr. 5)](https://sasan-faraj.github.io/workshop/assignment_2)
 
 
