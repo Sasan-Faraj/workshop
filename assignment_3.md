@@ -49,6 +49,7 @@ Figure 3: Schematic view of neural network (Abubakar & Olatunji, p. 5360, 2019)
 In a slightly similar study, researchers studied gender-disaggregated development factors using DHS data, geospatial covariates, and ANN’s (Bosco et al., 2017). The researchers chose to study an ANN’s methodology because of its “capacity to model linear and nonlinear relationships”   (Bosco et al., p. 4, 2017). This case, the algorithim used for the activation function was as follows.
 
 ![](alg.PNG) 
+
 Figure 4: Activation function (Bosco et al., p. 4, 2017)
 
 In this case, “Wij is the connection weight, xi is the input to the network and bj is the bias term,” and the function is the sum of those in the equation to equal the incoming signal(Bosco et al., p. 4, 2017). In the end, Bosco et al. compared their results to using a Bayesian Hierarchical Model and found relatively similar levels of accuracy.
