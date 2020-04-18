@@ -50,4 +50,24 @@ In a slightly similar study, researchers studied gender-disaggregated developmen
 
 ![](alg.PNG) 
 Figure 4: Activation function (Bosco et al., p. 4, 2017)
-	In this case, “Wij is the connection weight, xi is the input to the network and bj is the bias term,” and the function is the sum of those in the equation to equal the incoming signal(Bosco et al., p. 4, 2017). In the end, Bosco et al. compared their results to using a Bayesian Hierarchical Model and found relatively similar levels of accuracy.
+
+In this case, “Wij is the connection weight, xi is the input to the network and bj is the bias term,” and the function is the sum of those in the equation to equal the incoming signal(Bosco et al., p. 4, 2017). In the end, Bosco et al. compared their results to using a Bayesian Hierarchical Model and found relatively similar levels of accuracy.
+
+## references
+
+Abubakar, I. R., & Olatunji, S. A. (2019). Computational intelligence-based model for diarrhea prediction using Demographic and Health Survey data. Soft Comput, 24, 5357–5366. https://doi.org/10.1007/s00500-019-04293-9
+
+Adedire, E. B., Ajayi, I., Fawole, O. I., Ajumobi, O., Kasasa, S., Wasswa, P., & Nguku, P. (2016). Immunisation coverage and its determinants among children aged 12-23 months in Atakumosa-west district, Osun State Nigeria: a cross sectional study. BMC Public Health, 16(905). https://doi.org/10.1186/s12889-016-3531-x
+
+Bosco, C., Alegana, V., Bird, T., Pezzulo, C., Bengtsson, L., Sorichetta, A., Steele, J., Hornby, G., Ruktanonchai, C., Ruktanonchai, N., Wetter, E., & Tatem, A. J. (2017). Exploring the high resolution of gender-disaggregated development indicators. The Royal Society Publishing, 14(192). http://dx.doi.org/10.1098/rsif.2016.0825
+
+Brooks-Bartlette, J. (2018). Probability concepts explained: Bayesian inference for parameter estimation. Towards Data Science. https://towardsdatascience.com/probability-concepts-explained-bayesian-inference-for-parameter-estimation-90e8930e5348
+
+Gething, P., Tatem, A., Bird, T., & Burgert-Brucker, C. R. (2015). Creating spatial interpolation surgaces with DHS data, United States Agency for International Development, 11. https://dhsprogram.com/publications/publication-SAR11-Spatial-Analysis-Reports.cfm
+
+(2019, Dec. 5). Measles. World Health Organization. https://www.who.int/news-room/fact-sheets/detail/measles
+
+Utazi, C.D., Thorley, J., Alegana, V. A., Ferrari, M.J., Takahashi, S., Metcalf, C. J. E., Lessler, J., & Tatem, A.J. (2018). High resolution age-structured mapping of childhood vaccination coverage in low and middle income countries. Vaccine, 36(12), 1583-1591. https://doi.org/10.1016/j.vaccine.2018.02.020
+
+Walder, A., & Hanks, E. M. (2019). Bayesian analysis of spatial generalized linear mixed models with Laplace moving average random fields. Computational Statistics and Data Analysis, 188. https://doi.org/10.1016/j.csda.2019.106861
+
