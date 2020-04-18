@@ -17,7 +17,7 @@ Picking the correct model for vaccination coverage is an intricate, delicate, an
 
 Data regarding the vaccination coverage of children under 5-years old will be obtained from Demographic and Health Surveys (DHS). The DHS Program is a recent program which conducts standardized survey assessments on many developing countries, one of which is Nigeria, as noted in USAID’s DHS Spatial Analysis Report (Gething et al., 2015). For survey implementation, the DHS sends out trained surveyors to randomly selected Enumeration Areas (EA), areas determined by the countries census bureau to interview a random cluster of households within the that cluster itself, interviewing a total of 20-30 random households from a set of 200-300 households within the EA (Gething et al., 2015). From these interviews, questions regarding many demographic characteristics (i.e. education, race, income level) are asked, including vaccination coverage, and these questions (Gething et al., 2015). The latitude and longitude of the EA cluster is recorded, however for privacy reasons the cluster centroid is displaced 2-5 kilometers, depending if the area is urban or rural respectively (Utazi et al., 2018).  This study incorporates DHS data because of its detailed nature, its breadth of figures, allowing researchers to draw multiple correlations between variables, and backing behind many research in this field. 
 
-	Data regarding crime rates of Nigeria will be obtained from publicly available data on crime incidence. Likewise, data regarding geospatial covariates of the country will be obtained from publicly available databases such the Humanitarian Data Exchange. The process of covariate selection varies based on statistical analysis, so the discussion will be disseminated within the later two sections. 
+Data regarding crime rates of Nigeria will be obtained from publicly available data on crime incidence. Likewise, data regarding geospatial covariates of the country will be obtained from publicly available databases such the Humanitarian Data Exchange. The process of covariate selection varies based on statistical analysis, so the discussion will be disseminated within the later two sections. 
 
 ## Section 3:  Bayesian Hierarchical Model
 
@@ -37,7 +37,7 @@ Applying this to the study of vaccination coverage, Utazi et al. conducted analy
 Figure 2: Spatial Process of a Bayesian Hierarchical Model (Utazi et al., p. 1584, 2018)
 
    
-	When deciding to conduct a Bayesian Hierarchical Model, researchers differ on the use of a Gaussian random fields or Laplace moving averages to help create the unequal distribution within the spatial regression model prior to the input into the bayesian model. In the case of Utazi et al., a Gaussian process was applied to the spatial regression model “to model spatial dependence of data” and “capture the effects of spatially-varying covariate factors” (p. 1585, 2018). However in the argument for using the Laplace moving averages instead, researches suggest that this model allows for less smoothing over sharper inequalities, allowing for even more unequal distribution (Walder & Hanks, 2019). Regardless of the decision, both allow for unequal distribution. 
+When deciding to conduct a Bayesian Hierarchical Model, researchers differ on the use of a Gaussian random fields or Laplace moving averages to help create the unequal distribution within the spatial regression model prior to the input into the bayesian model. In the case of Utazi et al., a Gaussian process was applied to the spatial regression model “to model spatial dependence of data” and “capture the effects of spatially-varying covariate factors” (p. 1585, 2018). However in the argument for using the Laplace moving averages instead, researches suggest that this model allows for less smoothing over sharper inequalities, allowing for even more unequal distribution (Walder & Hanks, 2019). Regardless of the decision, both allow for unequal distribution. 
 
 ## Part 4: Artificial Neural Networks
 
@@ -46,7 +46,7 @@ Neural Networks range in type and applications, but Artificial Neural Networks (
 ![](Neural Network Explanation.PNG) 
 Figure 3: Schematic view of neural network (Abubakar & Olatunji, p. 5360, 2019)
 	
-	In a slightly similar study, researchers studied gender-disaggregated development factors using DHS data, geospatial covariates, and ANN’s (Bosco et al., 2017). The researchers chose to study an ANN’s methodology because of its “capacity to model linear and nonlinear relationships”   (Bosco et al., p. 4, 2017). This case, the algorithim used for the activation function was as follows.
+In a slightly similar study, researchers studied gender-disaggregated development factors using DHS data, geospatial covariates, and ANN’s (Bosco et al., 2017). The researchers chose to study an ANN’s methodology because of its “capacity to model linear and nonlinear relationships”   (Bosco et al., p. 4, 2017). This case, the algorithim used for the activation function was as follows.
 
 ![](alg.PNG) 
 Figure 4: Activation function (Bosco et al., p. 4, 2017)
