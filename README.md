@@ -11,10 +11,6 @@ Sasan Faraj
 5. [Stevens Response (Mar. 26)](https://sasan-faraj.github.io/workshop/stevens)
 6. [Nieves Response (Mar. 31)](https://sasan-faraj.github.io/workshop/nieves)
 
-## Projects
-1.
-
-
 
 ### Assingments
 
@@ -22,4 +18,4 @@ Sasan Faraj
   
 2. [Literature Review (Apr. 5)](https://sasan-faraj.github.io/workshop/assignment_2)
 
-
+3. [Methodolgy (Apr. 18)](https://sasan-faraj.github.io/workshop/assignment_3)
